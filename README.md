@@ -1,5 +1,1 @@
-# Гайдлайн разработки по Эргономичному подходу
-
-Проект-вики с гайдлайном разработки по Эргономичному подходу (wip)
-
-Гайдлайн содержится в [wiki](https://github.com/ergonomic-code/Ergo-Approach-Guideline/wiki) репозитория.
+Вики переехала https://ergonomic-code.github.io/ergo-wiki/[сюда]
