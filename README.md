@@ -1,1 +1,1 @@
-Вики переехала https://ergonomic-code.github.io/ergo-wiki/[сюда]
+Вики переехала [сюда](https://ergonomic-code.github.io/ergo-wiki/).
